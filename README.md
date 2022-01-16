@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer and I live in Buenos Aires. I have been working as a freelance in web development for 6 years. In 2014 I founded LaCueva.tv which is a web development agency that combines design, UX and technology. In 2018 I started working at Portinos as a developer where I became the team leader after two years of work. Now I have new challenges, I like to be a leader and I am working to make the development area bigger.
+I am a web developer and I live in Buenos Aires. I have been working working in web development since 2012. In 2014 I founded LaCueva.tv which was a web development agency that combined design, UX and technology. There I worked with many clients for 6 years. Then, in 2020 I started working at Portinos as a developer where I became the team leader after two years of work. Now I have **new challenges**. I like to be a leader and I am working to make the development area bigger.
