@@ -1,3 +1,5 @@
+![Header](header.jpg)
+
 ### Hi there 👋
 
 <!--
