@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer and I live in Buenos Aires. I have been working working in web development since 2012. In 2014 I founded LaCueva.tv which was a web development agency that combined design, UX and technology. There I worked with many clients for 6 years. Then, in 2020 I started working at Portinos as a developer where I became the team leader after two years of work. Now I have **new challenges**. I like to be a leader and I am working to make the development area bigger.
+I'm a web developer based in Buenos Aires with a solid track record in the field since 2012.
+
+Currently, at Portinos, where I joined in 2020, I lead a team of 17 developers. I thoroughly enjoy my role, focusing on coordination and enhancing the efficiency and growth of the team.
+
+My entrepreneurial spirit was shaped by my studies in film and theater, where I learned the value of building projects with my own resources, whether it was a play or a short film. This vision materialized in 2014 with the founding of LaCueva.tv, a web development agency that integrated design, UX, and technology, and where I worked with various clients for six years.
+
+Now, in 2025, my restless nature drives me to a new challenge: the creation of White Suit Studio, a video game production studio that is taking its first steps.
+
+In short: Definitely restless!
