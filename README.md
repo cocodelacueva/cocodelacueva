@@ -23,6 +23,6 @@ Currently, at Portinos, where I joined in 2020, I lead a team of 17 developers. 
 
 My entrepreneurial spirit was shaped by my studies in film and theater, where I learned the value of building projects with my own resources, whether it was a play or a short film. This vision materialized in 2014 with the founding of LaCueva.tv, a web development agency that integrated design, UX, and technology, and where I worked with various clients for six years.
 
-Now, in 2025, my restless nature drives me to a new challenge: the creation of White Suit Studio, a video game production studio that is taking its first steps.
+In 2025, my restless nature drives me to a new challenge: the creation of White Suit Studio, a video game production studio that is taking its first steps.
 
 In short: Definitely restless!
