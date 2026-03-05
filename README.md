@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a web developer based in Buenos Aires with a solid track record in the field since 2012.
+Technology Strategist | Business-Driven Tech Leadership
 
-Currently, at Portinos, where I joined in 2020, I lead a team of 17 developers. I thoroughly enjoy my role, focusing on coordination and enhancing the efficiency and growth of the team.
+My approach to technology is straightforward: understand the business problem before architecting the solution.
 
-My entrepreneurial spirit was shaped by my studies in film and theater, where I learned the value of building projects with my own resources, whether it was a play or a short film. This vision materialized in 2014 with the founding of LaCueva.tv, a web development agency that integrated design, UX, and technology, and where I worked with various clients for six years.
+As Director of Engineering (CTO Role) at Portinos, I led the technical organization’s growth from a 2-person core to a high-performing team of 15. My core achievement was successfully transitioning from managing developers to managing managers, establishing a scalable structure using Agile (Scrum/Kanban) and Hybrid methodologies tailored to each project's complexity.
 
-In 2025, my restless nature drives me to a new challenge: the creation of White Suit Studio, a video game production studio that is taking its first steps.
+I believe technology should accelerate, not obstruct. My expertise lies in selecting the most efficient tool for the job—whether it’s architecting complex software factories, leveraging AI-driven workflows, or deploying rapid No-Code solutions (Webflow/Shopify) to reduce time-to-market.
 
-In short: Definitely restless!
+With one foot in technical architecture and the other in storytelling (informed by my background in film and my experience founding White Suit Studio), I bridge the gap between product vision and engineering execution. I am as comfortable defining long-term technical roadmaps as I am building an MVP from scratch to validate a concept.
+
+If you are looking for a technical partner who prioritizes business impact and operational efficiency over mere trends, let’s connect.
+
+Always restless. Always building.
